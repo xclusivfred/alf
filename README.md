@@ -1,2 +1,2 @@
 # login portal
-- a sample login portal with  Css framework (Boostrap 5.2.0) which makes it looks nice with less work.
+- a sample login portal with  Css framework (Boostrap) which makes it looks nice with less work.
