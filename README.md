@@ -15,3 +15,7 @@
 ## Demo
 
 https://xclusivfred.github.io/login-portal
+
+## Authors
+
+- [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
