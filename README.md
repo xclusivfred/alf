@@ -19,3 +19,7 @@ https://xclusivfred.github.io/login-portal
 ## Authors
 
 - [@Alfredo Kalu Orie](https://www.github.com/xclusivfred)
+
+## Acknowledgements
+
+ - [Devslopes.com](https://Devslopes.com/)
